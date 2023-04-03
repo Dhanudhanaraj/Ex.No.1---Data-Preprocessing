@@ -81,13 +81,21 @@ print(df1)
 ```
 ## OUTPUT:
 ![NN1](https://user-images.githubusercontent.com/119218812/229430046-3454376c-0b1f-407f-a4ea-9139d395e748.png)
+
 ![NN2](https://user-images.githubusercontent.com/119218812/229430061-12468285-27fb-4b01-969f-daf92a8fa1d0.png)
+
 ![NN3](https://user-images.githubusercontent.com/119218812/229430073-59d3580f-a68d-4bfb-82df-79f38ca67585.png)
+
 ![NN4](https://user-images.githubusercontent.com/119218812/229430089-1fa82fc5-363a-4563-b614-748adf0f592f.png)
+
 ![NN5](https://user-images.githubusercontent.com/119218812/229430109-2f80cabd-b8c5-4366-9930-77738c3cb840.png)
+
 ![NN6](https://user-images.githubusercontent.com/119218812/229430132-ef53a8c2-fea2-4ba3-b33d-0dfb575f4ea7.png)
+
 ![NN7](https://user-images.githubusercontent.com/119218812/229430145-77965388-2c79-4dc9-9efc-60de9331c017.png)
+
 ![NN8](https://user-images.githubusercontent.com/119218812/229430161-3f702c27-7edd-405c-b224-6ede279d3a79.png)
+
 ![NN9](https://user-images.githubusercontent.com/119218812/229430176-681ee055-ad0e-4575-815c-e2cda4f2bc07.png)
 
 ## RESULT:
